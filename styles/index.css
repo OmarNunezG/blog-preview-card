@@ -50,6 +50,7 @@ body {
 
 .card-body-info {
   color: hsl(0, 0%, 42%);
+  line-height: 1.5em;
 }
 
 .card-body-footer {
@@ -65,5 +66,5 @@ body {
 }
 
 .card-author {
-  font-weight: 800;
+  font-weight: 500;
 }
